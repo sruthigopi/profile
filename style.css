@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+  color: rgb(5, 5, 107);
+}
+#main{
+    display: flex;
+}
+#abt{
+    margin: 30px;
+}
+h4{
+    color: blue;
+}
+#tle{
+    text-align: center;
+}
+.item{
+    
+    text-align: center;   
+    border: 1px solid gainsboro;
+    padding: 20px;
+    margin: 20px;
+}
+.item2{
+    margin: 20px;
+    text-align: center;   
+    border: 1px solid gainsboro;
+    padding: 20px;
+}
+.item1{
+    border: 1px solid gainsboro;
+    margin: 20px;
+    display: flex;
+    flex: 1 1 0px;
+    /* text-align: center;    */
+}
+.item4{
+    display: flex;
+    flex: 1 1 0px;
+    border: 1px solid gainsboro;
+    margin: 20px;
+}
+.item4 p{
+    padding: 10px;
+    border: 1px;
+    border: 1px solid antiquewhite;
+    margin: 25px 45px;
+    background-color: antiquewhite;
+    border-radius: 30%;
+}
+.img2{
+    margin: 20px;
+}
+.img1{
+    border-radius: 50%;
+    width: 30%;
+    margin: 10%;
+}
+#abt1{
+    margin: 40px;
+    text-align: center;
+}
+.footer1{
+    background-color:bisque;
+    padding: 0px;
+    margin-bottom: 0px;
+    border: 1px solid bisque;
+}
+.footer{
+  
+   margin-bottom: 0px;
+    margin-top: 10px;
+    display: flex;
+
+}
+#cont{
+    margin: 40px;
+    text-align: center;
+}
+#ftr{
+    text-align: center;
+}
+.footer a{
+    margin: 10px 100px;
+}
+#edu{
+    margin: 40px;
+    text-align: center;
+}
+#exp{
+    margin: 40px;
+    text-align: center;  
+}
+#ski{
+    margin: 40px;
+    text-align: center; 
+}
+
